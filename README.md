@@ -1,4 +1,4 @@
-# About-Me
+
 # 💫 About Me:
 I am a dedicated and detail-oriented software developer with a strong passion for building robust, scalable, and user-centric applications. My expertise lies in full-stack development, with a particular focus on JavaScript technologies, RESTful APIs, and modern frameworks.<br><br>With a solid foundation in computer science and hands-on experience in both frontend and backend development, I am constantly striving to expand my knowledge, contribute to impactful projects, and adhere to best practices in software engineering.
 
